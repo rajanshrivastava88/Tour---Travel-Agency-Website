@@ -2,4 +2,11 @@
 
 :root{
     --primary-color: #0376c1;
+    --primary-color-dark: #002954;
+    --text-dark: #12110f;
+    --text-light: #6b7280;
+    --extra-light: #fbf7f6;
+    --white: #ffffff;
+    --max-width:1200px;
+    --header-font: "Merriweather", serif;
 }
