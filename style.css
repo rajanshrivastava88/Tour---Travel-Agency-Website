@@ -125,7 +125,7 @@ nav{
     padding: 2rem;
     background-color: var(--extra-light);
     border-bottom: 1px solid var(--text-light);
-    transition: .5s;
+    transition: 0.5s;
     z-index: -1;
     transform: translateY(-100%);
 }
@@ -169,5 +169,10 @@ nav{
         position: static;
         padding: 0;
         flex-direction: row;
+        justify-content: flex-end;
+        gap: 3rem;
+        background-color: transparent;
+        transform: none;
+        border: none;
     }
 }
